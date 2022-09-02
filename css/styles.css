@@ -15,12 +15,12 @@
     height: 100vh;
     /* padding: 250px 0; */
     
-    background-image: url(../img/pexels-stefan-stefancik-92380.jpg);
+    background-image:  url(../img/pexels-stefan-stefancik-92380.jpg);
     background-repeat: no-repeat;
     background-color: bisque;
     background-size: cover;
     background-position: center;  
-    background-attachment: fixed;
+    /* background-attachment: fixed; */
 }
 
 .banner-content{
